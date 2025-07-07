@@ -1,6 +1,10 @@
-PING_ID = {
+{
     "DEAD_RIELS": {
         "ID": "1390085681803427971",
         "SCRIPT": "AUTO BONOS"
+    },
+    "XDD": {
+        "ID": "12",
+        "SCRIPT": "21 212"
     },
 }
